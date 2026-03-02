@@ -1,40 +1,21 @@
 const data ={
   "bio": [
-    "Hi, I'm Vinay Somawat — a Frontend Engineer with 5+ years of experience building scalable, high-performance web applications using Angular and React.",
-    "I specialize in component architecture, performance optimization, and modern frontend tooling like Storybook, Stencil, and Module Federation. I actively leverage GitHub Copilot and OpenAI APIs to accelerate UI development, automate workflows, and improve developer productivity.",
-    "I’m passionate about clean code, mentoring, and driving engineering excellence through collaboration, automation, and continuous improvement."
+    "Hi, I’m Kairou, a Multimedia Designer. I focus on 3D Modeling, Website Development, and UI/UX Design.",
+    "I also have experience in graphic design, video editing, and motion graphics, which gives me a versatile creative toolkit. I enjoy turning ideas into visually engaging and user-friendly digital experiences, blending creativity with functionality.",
+  
   ],
   "skills": [
-    "JavaScript",
-    "TypeScript",
-    "Angular",
-    "AngularJS",
-    "React",
-    "HTML5",
-    "CSS3",
-    "Tailwind CSS",
-    "Material UI",
-    "Bootstrap",
-    "RxJS",
-    "NGXS",
-    "NGRX",
-    "WebSockets",
-    "Module Federation",
-    "Signals API",
-    "Micro-frontend Architecture",
-    "StencilJS",
-    "Storybook",
-    "Webpack",
-    "Git",
-    "GitHub Copilot",
-    "OpenAI APIs",
-    "Chrome DevTools",
-    "Performance Optimization",
-    "Responsive Design",
-    "Web Accessibility",
-    "Unit Testing",
-    "ESLint",
-    "Prettier"
+    "Maya",
+    "3D Max",
+    "Phoenix",
+    "Figma",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe Premiere Pro",
+    "Adobe After Effects",
+    "Adobe Animate",
+    "Canva"
+   
   ],
   "experience": [
     {
